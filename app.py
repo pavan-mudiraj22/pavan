@@ -1,1 +1,1 @@
-text = "this is my Python"
+text = "this is Python"
